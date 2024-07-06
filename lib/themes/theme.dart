@@ -23,6 +23,8 @@ ThemeData appTheme() {
       ),
       titleLarge: TextStyle(
         fontFamily: "Montserrat",
+        fontSize: 34,
+        fontWeight: FontWeight.bold
       )
     ),
   );
